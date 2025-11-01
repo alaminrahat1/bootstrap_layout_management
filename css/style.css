@@ -1,0 +1,16 @@
+.box{
+	overflow: hidden;
+}
+.item{
+	float: left;
+	box-sizing: border-box;
+	width: 25%;
+	height: 100px;
+	background-color: red;
+	border: 5px solid teal;
+}
+.item{
+	text-align: center; 
+	font-size: 50px;
+	color: white;
+}
